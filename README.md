@@ -1,11 +1,11 @@
 ### Hi there 👋 
-Welcome to Ali Mahmoudi's GitHub. Here is some info about me
+Welcome to **Ali Mahmoudi**'s GitHub. Here is some info about me:
 - 🔭 I’m currently a research assistant in the University of Melbourne working on Phylogenetic network.
 - 🔭 I have completed my PhD in statistical genomics in the Melbourne integrative genomics, University of Melbourne. 
 - 💬 Ask me about Bayesian statistics (e.g., MCMC),  statistical genetics, and Python. 
 - 📫 How to reach me: amahmoudi@student.unimelb.edu.au or @alimahmoudi29 on LinkedIn/twitter/ facebook/instagram.
 
-<--
+<!---
 Here are some ideas to get you started:
 
 %- 🔭 I’m currently working on ...
