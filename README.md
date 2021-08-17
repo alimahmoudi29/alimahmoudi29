@@ -2,8 +2,8 @@
 Welcome to **Ali Mahmoudi**'s GitHub. Here is some info about me:
 - 🔭 I’m currently a Data Scientist working on modelling financial and sports data.
 - 🔭 I have completed my PhD in statistical genomics in the Melbourne integrative genomics, University of Melbourne. 
-- 💬 Ask me about Bayesian statistics (e.g., MCMC),  statistical genetics, and Python. 
-- 📫 How to reach me: amahmoudi@student.unimelb.edu.au or @alimahmoudi29 on LinkedIn/twitter/ facebook/instagram.
+- 💬 Ask me about Bayesian statistics (e.g., MCMC),  Bayesian Network, statistical genetics,  Python, Scala, Microsoft Azure, and Machine Learning.
+- 📫 How to reach me: alimahmoodi29@gmail.com or @alimahmoudi29 on LinkedIn/twitter/facebook/instagram.
 
 <!---
 Here are some ideas to get you started:
