@@ -8,6 +8,8 @@ Welcome to **Ali Mahmoudi**'s GitHub. Here is some info about me:
      -  Machine Learning
      -  Python
      -  Scala
+     -  pySpark
+     -  Data Bricks
      -  Microsoft Azure
      -  Statistical genetics 
 - 📫 How to reach me: alimahmoodi29@gmail.com or @alimahmoudi29 on LinkedIn/twitter/facebook/instagram.
