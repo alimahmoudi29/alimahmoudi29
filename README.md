@@ -1,6 +1,6 @@
 ### Hi there 👋 
 Welcome  to **Ali Mahmoudi**'s GitHub. Here is some info about me:
-- 🔭 Current occupation:  Data Scientist, full time, Sydney, Australia.
+- 🔭 Current occupation:  Senior Data Scientist/ Research Lead, full time, Sydney, Australia.
 - 🔭 PhD in Statistics from the University of Melbourne. See [my PhD thesis](https://minerva-access.unimelb.edu.au/handle/11343/265947), if you are interested in Probabilistic inference methods, MCMC, Population Genetics, or the Coalescent with Recombination  
 - 💬 Ask me about:
      -  Bayesian statistics (e.g., MCMC)
